@@ -1,0 +1,13 @@
+
+AppBar{
+background-color: cadetblue;
+}
+Button{
+    list-style: none;
+    background-color: gray ;
+    color: black;
+    font-size: medium;
+}
+.buttons{
+    text-decoration:none;
+}
